@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+        "name": "§e§lROT V3.0.4 RP",
+		"description": "§cWelcome to §4§lROT§r§c! §4§lROT§r§c is a Minecraft Bedrock addon designed to make §6§lYOUR§r§c Minecraft server §4§lBETTER§r§c! Remember to use \"§7!help§c\"!",
+		"uuid": "65f0f537-74fe-4391-b229-01e9accf4bc9",
+		"version": [
+			2,
+			2,
+			4
+		],
+		"min_engine_version": [
+			1,
+			18,
+			12
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "3fe801a3-cfac-47e6-b45d-6458de85231a",
+			"version": [
+				2,
+				2,
+				4
+			]
+		}
+	]
+}

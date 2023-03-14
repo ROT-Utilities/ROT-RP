@@ -1,0 +1,59 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.chunk.locate": {
+			"loop": true,
+			"bones": {
+				"chunk": {
+					"rotation": [
+						0,
+						"-query.body_y_rotation",
+						0
+					]
+				},
+				"side1": {
+					"position": [
+						"variable.chunk_x",
+						"variable.chunk_y",
+						"variable.chunk_z"
+					]
+				},
+				"side2": {
+					"position": [
+						"variable.chunk_x",
+						"variable.chunk_y",
+						"variable.chunk_z"
+					]
+				},
+				"side3": {
+					"position": [
+						"variable.chunk_x",
+						"variable.chunk_y",
+						"variable.chunk_z"
+					]
+				},
+				"side4": {
+					"position": [
+						"variable.chunk_x",
+						"variable.chunk_y",
+						"variable.chunk_z"
+					]
+				},
+				"Top": {
+					"position": [
+						"variable.chunk_x",
+						"variable.chunk_y",
+						"variable.chunk_z"
+					]
+				},
+				"Bottom": {
+					"position": [
+						"variable.chunk_x",
+						"variable.chunk_y",
+						"variable.chunk_z"
+					]
+				}
+			}
+		}
+	}
+}
