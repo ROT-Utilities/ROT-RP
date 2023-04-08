@@ -7,7 +7,7 @@
 				"chunk": "entity_alphablend"
 			},
 			"textures": {
-				"chunk": "textures/rot/entity/chunk"
+				"chunk": "textures/ROT/entity/chunk"
 			},
 			"geometry": {
 				"chunk": "geometry.chunk"

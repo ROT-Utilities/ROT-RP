@@ -14,7 +14,7 @@
 				"default": "geometry.humanoid.ah"
 			},
 			"textures": {
-				"ah": "textures/rot/entity/ah"
+				"ah": "textures/ROT/entity/ah"
 			},
 			"materials": {
 				"default": "npc",

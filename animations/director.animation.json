@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.director.firstperson": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"bb_main3": {
+					"rotation": [-32.5, 90, -155]
+				}
+			}
+		}
+	}
+}

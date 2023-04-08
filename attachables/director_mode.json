@@ -1,0 +1,28 @@
+{
+	"format_version": "1.19.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "rot:director",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ROT/items/3d/director"
+			},
+			"geometry": {
+				"default": "geometry.director"
+			},
+			"animations": {
+				"weird_first_person": "animation.director.firstperson"
+			},
+			"scripts": {
+				"animate": [{
+					"weird_first_person": "c.is_first_person"
+				}]
+			},
+			"render_controllers": [
+				"controller.render.default"
+			]
+		}
+	}
+}
