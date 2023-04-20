@@ -1,0 +1,13 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.hologram": {
+			"geometry": "Geometry.default",
+			"materials": [ { "*": "Material.default" } ],
+			"textures": [ "texture.hologram" ],
+			"part_visibility": [
+			  { "*": true }
+			]
+		}
+	}
+}
