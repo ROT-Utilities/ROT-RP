@@ -1,5 +1,6 @@
 ROT.command.test=%1$s and %2$s and %1$s
 item.spawn_egg.entity.rot:ah.name=§a§lROT Auction House§r
+item.spawn_egg.entity.rot:mt.name=§c§lMoney Transfer System§r
 
 tile.element.ac.name=Ogonek Accent
 tile.element.ag.name=Percent Sign

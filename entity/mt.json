@@ -1,0 +1,36 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "rot:mt",
+			"spawn_egg": {
+				"base_color": "#b08f26",
+				"overlay_color": "#e8b923"
+			},
+			"render_controllers": [
+				"controller.render.mt"
+			],
+			"geometry": {
+				"default": "geometry.humanoid.mt"
+			},
+			"textures": {
+				"mt": "textures/ROT/entity/mt"
+			},
+			"materials": {
+				"default": "npc",
+				"animated": "player_animated"
+			},
+			"scripts": {
+				"scale": "0.9375"
+			},
+			"animations": {
+				"bob": "animation.humanoid.bob"
+			},
+			"animation_controllers": [
+				{
+					"bob": "controller.animation.humanoid.bob"
+				}
+			]
+		}
+	}
+}
