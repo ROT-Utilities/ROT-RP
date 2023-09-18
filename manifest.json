@@ -1,18 +1,18 @@
 {
 	"format_version": 2,
 	"header": {
-        "name": "§e§lROT V3.3.1 RP",
+        "name": "§e§lROT V3.3.20 RP",
 		"description": "§cWelcome to §4§lROT§r§c! This is the ROT resource pack compatible with ROT and ROTJ.",
-		"uuid": "a22218f9-f4a5-415d-adf1-4e928b148e5d",
+		"uuid": "e0d0931d-5b67-4a40-bb7d-0f61c11a1508",
 		"version": [
 			3,
 			3,
-			1
+			20
 		],
 		"min_engine_version": [
 			1,
 			20,
-			1
+			12
 		]
 	},
 	"modules": [
@@ -22,7 +22,7 @@
 			"version": [
 				3,
 				3,
-				1
+				20
 			]
 		}
 	]
